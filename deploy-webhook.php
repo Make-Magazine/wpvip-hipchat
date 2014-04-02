@@ -11,8 +11,8 @@
 /* 
  * Standard Variables / Constants
  */
-$auth_token = '';
-$room_id = '';
+$auth_token = '0440c72286921a139bc2ef2318b903';
+$room_id = '198932';
 
 
 /* 
